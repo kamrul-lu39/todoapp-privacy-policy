@@ -1,0 +1,74 @@
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Privacy Policy – ToDoApp</title>
+      <style>
+          body {
+              font-family: Arial, sans-serif;
+              line-height: 1.6;
+              margin: 20px;
+          }
+          h1, h2 {
+              color: #333;
+          }
+      </style>
+  </head>
+  <body>
+      <h1>Privacy Policy – ToDoApp</h1>
+      <p><strong>Effective Date:</strong> April 4, 2025</p>
+      <p><strong>Last Updated:</strong> April 4, 2025</p>
+
+      <h2>1. Introduction</h2>
+      <p>Welcome to <strong>ToDoApp</strong>. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile app.</p>
+
+      <h2>2. Information We Collect</h2>
+      <p>We may collect the following information:</p>
+      <ul>
+          <li><strong>Personal Information:</strong> Your name and email address via <strong>Google Sign-In</strong></li>
+          <li><strong>Task Data:</strong> To-do items, preferences, and settings saved by you</li>
+          <li><strong>Device Information:</strong> Non-personal data such as device model, OS, crash logs</li>
+      </ul>
+
+      <h2>3. How We Use Your Information</h2>
+      <p>We use the information to:</p>
+      <ul>
+          <li>Authenticate you securely via Google and Firebase</li>
+          <li>Store and sync your tasks across devices</li>
+          <li>Provide a personalized user experience</li>
+          <li>Improve performance and fix issues</li>
+      </ul>
+      <p>We do <strong>not</strong> sell or share your personal data with third parties.</p>
+
+      <h2>4. Data Security</h2>
+      <p>All your data is stored securely using <strong>Google Firebase</strong>, which uses encrypted infrastructure. Access is restricted only to your account.</p>
+
+      <h2>5. Your Rights</h2>
+      <p>You have the right to:</p>
+      <ul>
+          <li>View and edit your data in the app</li>
+          <li>Delete your data at any time</li>
+          <li>Revoke app access via your Google Account settings</li>
+      </ul>
+
+      <h2>6. Third-Party Services</h2>
+      <p>ToDoApp uses the following third-party services:</p>
+      <ul>
+          <li><strong>Firebase Authentication:</strong> for sign-in</li>
+          <li><strong>Firebase Firestore:</strong> for task storage</li>
+          <li><strong>Expo:</strong> for app development and updates</li>
+      </ul>
+      <p>These services have their own privacy policies.</p>
+
+      <h2>7. Children's Privacy</h2>
+      <p>ToDoApp is not directed to children under 13. We do not knowingly collect data from children.</p>
+
+      <h2>8. Changes to This Policy</h2>
+      <p>We may update this Privacy Policy from time to time. Updates will be posted within the app or on our website.</p>
+
+      <h2>9. Contact Us</h2>
+      <p>If you have any questions about this Privacy Policy, contact:</p>
+      <p>📧 <strong>kamrulfst@gmail.com</strong></p>
+  </body>
+  </html>
